@@ -3,7 +3,7 @@ A Unified, Systematic Framework of Structured Weight Pruning for DNNs
 
 ## Content
 
-`caffe-admm/` Customized Caffe for non-structured pruning
+`caffe-admm/` Customized Caffe source code for non-structured pruning (structured pruning version will be released soon)
 
 `prototxt/` Sample prototxt for non-structured pruning
 
