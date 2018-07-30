@@ -1,0 +1,3 @@
+[submodule "caffe-admm"]
+	path = caffe-admm
+	url = git@github.com:KaiqiZhang/caffe-admm.git
