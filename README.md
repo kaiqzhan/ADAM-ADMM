@@ -25,4 +25,17 @@ A Unified, Systematic Framework of Structured Weight Pruning for DNNs
 
 ## Our paper
 
+"ADAM-ADMM: A Unified, Systematic Framework of Structured Weight Pruning for DNNs" (https://arxiv.org/abs/1807.11091)
+
 ## Citation
+
+If you use these models or code in your research, please cite:
+
+```
+@article{zhang2018admm,
+  title={ADAM-ADMM: A Unified, Systematic Framework of Structured Weight Pruning for DNNs},
+  author={Zhang, Tianyun and Zhang, Kaiqi and Ye, Shaokai and Li, Jiayu and Tang, Jian and Wen, Wujie and Fardad, Makan and Wang, Yanzhi},
+  journal={arXiv preprint arXiv:1807.11091},
+  year={2018}
+}
+```
